@@ -1,0 +1,94 @@
+@charset "UFT-8";
+
+@font-face {
+    font-family: 'idroid';
+    src: url('fontes/idroid.otf') format('opentype');
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    background-color: #59ff4d9d;
+    
+}
+
+header {
+    
+    background-image: linear-gradient( to bottom, #0FFE00,  #088000);
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    
+}
+
+header > h1 {
+    margin-top: 0px;
+    
+}
+
+
+
+.nav {
+    color: white;
+    text-decoration: none;
+    text-align: right;
+}
+
+
+
+main {
+    background-color: white;
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 0px 0px 10px 10px;
+    
+}
+
+footer {
+    background-color: #2C8026;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    margin-top: 20px;
+    padding: 5px;
+}
+#androidvideo {
+    border: 30px solid green;
+    margin: 0px;
+}
+
+p {
+    text-indent: 20px;
+    margin: 0px;
+    
+}
+.idroid {
+    font-family: idroid, 'sans-serif';
+    color: #088000;
+}
+
+#extra {
+    background-color: #59ff4d6c;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+div > h4 {
+    padding: 15px;
+    background-color: #0ECC00;
+    color: white;
+    
+}
+
+.backcolor {
+    background-color: #58FF4D;
+}
+
+.link {
+    color: #088000;
+}
